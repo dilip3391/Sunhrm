@@ -1,0 +1,27 @@
+//In our case screen id is 116. make sure of this
+
+INSERT INTO `ohrm_menu_item`(`menu_title`, `screen_id`, `parent_id`, `level`, `order_hint`, `url_extras`, `status`) VALUES ('Department Timesheets','116','53','3','200',NULL,1);
+
+INSERT INTO `ohrm_screen`(`name`, `module_id`, `action_url`) VALUES ('Department TimeSheets',5, 'viewDepartmentTimesheet');
+
+INSERT INTO `ohrm_user_role_screen`(`user_role_id`, `screen_id`, `can_read`, `can_create`, `can_update`, `can_delete`) VALUES (1,116,1,1,1,1);
+
+INSERT INTO `ohrm_data_group`(`name`, `description`, `can_read`, `can_create`, `can_update`, `can_delete`) VALUES ('time_department_timesheets','Time - Department Timesheets',1,1,1,1);
+
+INSERT INTO `ohrm_data_group_screen`(`data_group_id`, `screen_id`, `permission`) VALUES (61,116,1);
+
+INSERT INTO `ohrm_user_role_data_group`(`user_role_id`, `data_group_id`, `can_read`, `can_create`, `can_update`, `can_delete`, `self`) VALUES (1,61,1,1,1,1,0);
+
+
+
+
+
+//SQL To remove punch In/Out
+UPDATE `ohrm_menu_item` SET `status`=0 WHERE id=58;
+
+
+//To add extra fields in ohrm_attendance_records
+ALTER TABLE ohrm_attendance_record ADD working_hours VARCHAR(50), ADD over_time VARCHAR(50), ADD break_time VARCHAR(50),ADD actual_working_hours VARCHAR(50), ADD shift VARCHAR(50), ADD date VARCHAR(50);
+ALTER TABLE `ohrm_attendance_record` CHANGE `id` `id` BIGINT(20) NOT NULL AUTO_INCREMENT;
+ALTER TABLE `ohrm_attendance_record` CHANGE `date` `login_date` DATETIME NOT NULL;
+

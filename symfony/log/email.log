@@ -1,0 +1,1477 @@
+07/14/17 11:30:52,806 [3760] INFO core.email - ========== Message Begins ==========
+
+Time : July 14, 2017, 11:30 am
+Message Type : Failure
+Message : Sending email failed to ramyak@suntechnologies.com using sendmail. Reason: Unsupported sendmail command flags []. Must be one of "-bs" or "-t" but can include additional flags.
+
+========== Message Ends ==========
+
+
+10/04/17 10:19:25,556 [4712] INFO core.email - ========== Message Begins ==========
+
+Time : October 4, 2017, 10:19 am
+Message Type : Failure
+Message : Couldn't send leave application email to rahulas@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 10:59:35,666 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 10:59 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 10:59:56,692 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 10:59 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 11:00:17,705 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 11:00 am
+Message Type : Failure
+Message : Couldn't send leave application email to ramyak@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 11:50:02,684 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 11:50 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 11:50:23,706 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 11:50 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 11:50:44,740 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 11:50 am
+Message Type : Failure
+Message : Couldn't send leave application email to ramyak@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 14:43:52,146 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 2:43 pm
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 14:44:13,173 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 2:44 pm
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 14:44:34,197 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 2:44 pm
+Message Type : Failure
+Message : Couldn't send leave application email to ramyak@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 14:56:02,587 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 2:56 pm
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 14:56:23,595 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 2:56 pm
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/04/18 14:56:44,612 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 4, 2018, 2:56 pm
+Message Type : Failure
+Message : Couldn't send leave application email to ramyak@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/05/18 08:18:04,804 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 8:18 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 08:18:04,863 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 8:18 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 08:18:04,923 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 8:18 am
+Message Type : Success
+Message : Leave application email was sent to chandrasekhark@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 13:29:40,031 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 1:29 pm
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 13:29:40,123 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 1:29 pm
+Message Type : Success
+Message : Leave application email was sent to chandrasekhark@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 13:59:39,372 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 1:59 pm
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 13:59:39,454 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 1:59 pm
+Message Type : Success
+Message : Leave application email was sent to chandrasekhark@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 13:59:39,587 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 1:59 pm
+Message Type : Success
+Message : Leave application email was sent to ramyak@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 13:59:43,507 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 1:59 pm
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 13:59:43,594 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 1:59 pm
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/05/18 13:59:43,655 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 5, 2018, 1:59 pm
+Message Type : Success
+Message : Leave application email was sent to chandrasekhark@suntechnologies.com
+
+========== Message Ends ==========
+
+
+01/08/18 10:19:22,668 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 10:19 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 10:19:24,352 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 10:19 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 10:19:43,736 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 10:19 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 10:19:45,383 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 10:19 am
+Message Type : Failure
+Message : Couldn't send leave application email to bala@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 10:20:04,761 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 10:20 am
+Message Type : Failure
+Message : Couldn't send leave application email to ramyak@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 10:20:06,401 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 10:20 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 11:04:09,078 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 11:04 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 11:04:09,082 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 11:04 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 11:04:30,142 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 11:04 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 11:04:30,144 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 11:04 am
+Message Type : Failure
+Message : Couldn't send leave application email to bala@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/08/18 11:04:51,183 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 8, 2018, 11:04 am
+Message Type : Failure
+Message : Couldn't send leave application email to syedv@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:06:46,593 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:06 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:07:07,631 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:07 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:07:28,665 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:07 am
+Message Type : Failure
+Message : Couldn't send leave application email to ramyak@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:08:14,539 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:08 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:08:35,564 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:08 am
+Message Type : Failure
+Message : Couldn't send leave application email to bala@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:08:56,625 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:08 am
+Message Type : Failure
+Message : Couldn't send leave application email to syedv@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:15:50,810 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:15 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:16:11,851 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:16 am
+Message Type : Failure
+Message : Couldn't send leave application email to bala@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:16:32,871 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:16 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:17:14,776 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:17 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/09/18 11:17:35,801 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 9, 2018, 11:17 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/10/18 07:21:58,382 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 10, 2018, 7:21 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/10/18 07:22:19,531 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 10, 2018, 7:22 am
+Message Type : Failure
+Message : Couldn't send leave application email to bala@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/10/18 07:22:40,590 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 10, 2018, 7:22 am
+Message Type : Failure
+Message : Couldn't send leave application email to syedv@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/10/18 07:23:16,081 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 10, 2018, 7:23 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/10/18 07:23:37,109 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 10, 2018, 7:23 am
+Message Type : Failure
+Message : Couldn't send leave application email to bala@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/10/18 07:23:58,137 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 10, 2018, 7:23 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/10/18 07:24:33,394 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 10, 2018, 7:24 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/10/18 07:24:54,419 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 10, 2018, 7:24 am
+Message Type : Failure
+Message : Couldn't send leave application email to chandrasekhark@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/11/18 07:25:09,521 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 11, 2018, 7:25 am
+Message Type : Failure
+Message : Couldn't send leave application email to tahiri@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/11/18 07:25:30,553 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 11, 2018, 7:25 am
+Message Type : Failure
+Message : Couldn't send leave application email to bala@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+01/11/18 07:25:51,582 [4388] INFO core.email - ========== Message Begins ==========
+
+Time : January 11, 2018, 7:25 am
+Message Type : Failure
+Message : Couldn't send leave application email to syedv@suntechnologies.com. Reason: Connection could not be established with host 192.168.70.75 [A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ #10060]
+
+========== Message Ends ==========
+
+
+02/12/18 14:50:12,201 [3912] INFO core.email - ========== Message Begins ==========
+
+Time : February 12, 2018, 2:50 pm
+Message Type : Success
+Message : Leave application email was sent to ramyak@suntechnologies.com
+
+========== Message Ends ==========
+
+
+02/12/18 14:50:12,699 [3912] INFO core.email - ========== Message Begins ==========
+
+Time : February 12, 2018, 2:50 pm
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+02/12/18 14:50:12,812 [3912] INFO core.email - ========== Message Begins ==========
+
+Time : February 12, 2018, 2:50 pm
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/18/18 11:34:53,912 [8356] INFO core.email - ========== Message Begins ==========
+
+Time : July 18, 2018, 11:34 am
+Message Type : Success
+Message : Account creation email was sent to test@suntechnoligies.com
+
+========== Message Ends ==========
+
+
+07/25/18 16:48:44,671 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 25, 2018, 4:48 pm
+Message Type : Success
+Message : timesheet rejection email was sent tomithulalr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 06:47:16,160 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 6:47 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 06:47:16,227 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 6:47 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 06:47:16,299 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 6:47 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 06:51:30,913 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 6:51 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 06:51:30,984 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 6:51 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 06:51:31,053 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 6:51 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 06:51:31,190 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 6:51 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 06:51:31,262 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 6:51 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:34:17,510 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:34 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:34:17,579 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:34 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:34:17,646 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:34 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:22,254 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:22,329 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:22,397 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:55,630 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:55,696 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:55,766 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:55,889 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:55,956 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:56,121 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:56,187 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:56,253 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:56,370 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:56:56,448 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:56 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:57:19,929 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:57 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:57:20,013 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:57 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 07:57:20,094 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 7:57 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:02:11,445 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:02 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:02:11,517 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:02 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:02:11,586 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:02 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:02:11,717 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:02 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:02:11,785 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:02 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:04:23,713 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:04 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:04:23,780 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:04 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:04:23,848 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:04 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:04:23,975 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:04 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:04:24,045 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:04 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:06:25,180 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:06 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:06:25,249 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:06 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:06:25,319 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:06 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:06:25,434 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:06 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:06:25,502 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:06 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:14:11,198 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:14 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:14:11,272 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:14 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:14:11,340 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:14 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:14:49,690 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:14 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:14:49,757 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:14 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:14:49,824 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:14 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:14:49,948 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:14 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:14:50,020 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:14 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:15:02,616 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:15 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:15:02,689 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:15 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:15:02,755 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:15 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:17:03,765 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:17 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:17:03,839 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:17 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:17:03,921 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:17 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:17:04,049 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:17 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:17:04,118 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:17 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:17:48,650 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:17 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:17:48,725 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:17 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:17:48,794 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:17 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:20:24,143 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:20 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:20:24,211 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:20 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:20:24,281 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:20 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:20:24,441 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:20 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 08:20:24,510 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 8:20 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:35:42,316 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:35 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:35:42,387 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:35 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:35:42,455 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:35 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:36:27,369 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:36 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:36:27,445 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:36 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:36:27,511 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:36 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:36:27,641 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:36 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:36:27,725 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:36 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:40:50,194 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:40 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:40:50,265 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:40 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:40:50,332 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:40 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:41:26,994 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:41 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:41:27,079 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:41 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:41:27,169 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:41 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:41:27,364 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:41 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:41:27,492 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:41 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:46:25,253 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:46 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:46:25,327 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:46 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:46:25,395 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:46 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:46:52,213 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:46 am
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:46:52,280 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:46 am
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:46:52,347 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:46 am
+Message Type : Success
+Message : Leave application email was sent to pravinr@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:46:52,479 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:46 am
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 10:46:52,546 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 10:46 am
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 12:58:17,863 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 12:58 pm
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 12:58:17,932 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 12:58 pm
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 12:58:36,504 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 12:58 pm
+Message Type : Success
+Message : Leave application email was sent to tahiri@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 12:58:36,569 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 12:58 pm
+Message Type : Success
+Message : Leave application email was sent to bala@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 12:58:36,694 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 12:58 pm
+Message Type : Success
+Message : Leave application email was sent to facility@suntechnologies.com
+
+========== Message Ends ==========
+
+
+07/27/18 12:58:36,760 [2008] INFO core.email - ========== Message Begins ==========
+
+Time : July 27, 2018, 12:58 pm
+Message Type : Success
+Message : Leave application email was sent to malathi@suntechnologies.com
+
+========== Message Ends ==========
+
+
